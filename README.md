@@ -1,2 +1,0 @@
-# external-fec
-Motorola fec
